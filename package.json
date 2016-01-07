@@ -1,0 +1,16 @@
+{
+  "title": "E-biblioteka",
+  "name": "ebibliotekafirefox",
+  "version": "0.0.3",
+  "description": "Firefox paplašinājums LiepU bibliotekas abonēto datubāžu aplūkošanai ārpus universitātes tīkla",
+  "main": "index.js",
+  "author": "Ivars Šaudinis",
+  "engines": {
+    "firefox": ">=30.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "jetpack"
+  ]
+}
